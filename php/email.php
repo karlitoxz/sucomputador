@@ -32,5 +32,5 @@ $email_message = " E-mail: " . $_GET['email'] ."\n";
 
 <SCRIPT LANGUAGE="javascript"> 
     alert('Su mensaje a sido enviado! - SuComputador.com - ');
-    document.location=('index.html');
+    document.location=('../index.html');
 </SCRIPT>
