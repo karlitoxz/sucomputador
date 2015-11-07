@@ -105,7 +105,7 @@ $(document).ready(function(){
         loopTop: true,
         loopBottom: true,
         navigation: true,
-        navigationTooltips: ['Home', 'About', 'Services', 'Contact'],
+        navigationTooltips: ['Inicio', 'Nosotros', 'Servicios', 'Contactenos'],
     });
 
     function toggleMs() {
